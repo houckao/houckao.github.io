@@ -4,7 +4,7 @@
 
 
 ![useful image]({{ https://www.123rf.com/photo_92096313_collage-with-different-cute-animals.html}}/assets/image.png)
-![Cute animals](picture_filename.jpg)
+![Cute animals](animal_collage.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/houckao/houckao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
