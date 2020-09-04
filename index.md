@@ -9,11 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 https://github.com/houckao/houckao.github.io/issues/1#issue-693785257
 
+![useful image]({{ https://www.123rf.com/photo_92096313_collage-with-different-cute-animals.html}}/assets/image.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
