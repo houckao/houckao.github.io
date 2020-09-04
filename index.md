@@ -1,16 +1,17 @@
 ## Welcome to  Alexa's homepage 
 ### Where I _may_ attempt to put pictures of some **cute animals**
+#### Although the turkey looks a _little_ out of place
+
+
+![useful image]({{ https://www.123rf.com/photo_92096313_collage-with-different-cute-animals.html}}/assets/image.png)
+![Cute animals](picture_filename.jpg)
+
+
 You can use the [editor on GitHub](https://github.com/houckao/houckao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-
 https://github.com/houckao/houckao.github.io/issues/1#issue-693785257
-
-![useful image]({{ https://www.123rf.com/photo_92096313_collage-with-different-cute-animals.html}}/assets/image.png)
-
 
 
 ### Jekyll Themes
