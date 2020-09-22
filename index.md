@@ -12,10 +12,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 https://github.com/houckao/houckao.github.io/issues/1#issue-693785257
 
 
-### Jekyll Themes
+### Programming languages I have experience with
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/houckao/houckao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Python
+I choose to learn python because it appeared to be the most applicable coding language for my field of study (Integrated Science and Technology). Python will be helpful within my major as it is a friendly language for beginners and it can adapt to fill many purposes such as data science and software development. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### R and Rstudio 
+I am learning this programming for my statistics class, however, this language is extemely usesful for data analysis. Learning a programming language that can import and interpret data will help me later in life to be able to calculate and understand the data - which could be a major advantage to have over others.
