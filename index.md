@@ -2,7 +2,7 @@
 ### Where I _may_ attempt to put pictures of some **cute animals**
 #### Although the turkey looks a _little_ out of place
 
-![CuteAnimals](animalcollage.jpg)
+![HangmanRunning](FinishedHangman.PNG)
 
 
 You can use the [editor on GitHub](https://github.com/houckao/houckao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
