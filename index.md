@@ -1,16 +1,4 @@
 ## Welcome to  Alexa's coding central 
-### Where I _may_ attempt to put pictures of some **cute animals**
-#### Although the turkey looks a _little_ out of place
-
-![HangmanRunning](FinishedHangman.PNG)
-
-
-You can use the [editor on GitHub](https://github.com/houckao/houckao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-https://github.com/houckao/houckao.github.io/issues/1#issue-693785257
-
 
 ### Programming languages I have experience with
 
@@ -23,4 +11,13 @@ I am learning this programming for my statistics class, however, this language i
 ### Projects I have worked on 
 #### Hangman in python 
 This is the project that I spent the most time on this semester. This project is a recreation of the classic childhood game of hangman. I enjoyed creating this game as it has a core structure but you can still modify the game to run the way you want to. In my version I added the features that show guessed letters, allows you to solve for the word, and didn't take any tries for attempting to solve the word. When I first created this project there was a bug in which the program would only reveal one occurace of a letter. After  I solved the bug I got the opportunity to add some more features to my program! 
+
+![Hangman](FinishedHangman.PNG)
+
+
+#### Hello, World
+This was the first project I did in coding this semester. I did this both in python and in RStudio when starting out with the languages in order to be able to start figuring out the nuances of the languages I was using.
+
+![helloWorld](HelloWorld.PNG)
+![helloWorld](helloworldR.PNG)
 
