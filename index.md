@@ -24,8 +24,8 @@ This was the first project I did in coding this semester. I did this both in pyt
 #### Unit converter and corresponding tests in python 
 This project was in order to be able to convert units (in this case miles per gallon to kilometers per meter) and to test the conversion through running a series of tests in python and having them pass. Below is the conversion and the proof of tests passing. To see the full tests go to: https://github.com/houckao/TestingConversions
 
-![code](conversioncode.PNG)
 ![tests](conversiontests.PNG)
+![code](conversioncode.PNG)
 
 #### Creating a grade calculator to pass existing tests in python
 This project required forking repositories, and then creating three different sections of code (as seen below) in order to pass tests found in the forked repository. To see the tests that the code was created for go to: https://github.com/morphatic/grade-calculator-python/blob/main/grades_calculator_test.py 
